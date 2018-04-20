@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinPcapANEDll", "WinPcapANEDll\WinPcapANEDll.vcxproj", "{2BA33465-6223-4842-935F-6E388C7F8CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA33465-6223-4842-935F-6E388C7F8CFF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BA33465-6223-4842-935F-6E388C7F8CFF}.Debug|Win32.Build.0 = Debug|Win32
+		{2BA33465-6223-4842-935F-6E388C7F8CFF}.Release|Win32.ActiveCfg = Release|Win32
+		{2BA33465-6223-4842-935F-6E388C7F8CFF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1CC5882-1DE4-44BA-B229-F626BF487A2E}
+	EndGlobalSection
+EndGlobal
